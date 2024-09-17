@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente focado em desenvolvimento web.
-- 📖 Estudando JavaScipt.
+- 📖 Estudando JavaScript.
  
 ![Nicolas Ferraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-ferraz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ferraz&layout=donut&theme=radical)](https://github.com/nicolas-ferraz/github-readme-stats)
